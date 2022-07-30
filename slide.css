@@ -1,0 +1,27 @@
+
+body{
+    background-size: cover;
+    background-attachment: fixed;
+    background-image:url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Frealistic-galaxy-background_52683-12121.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fgalaxy&tbnid=E-oHmrwKKXyABM&vet=12ahUKEwjFsMnQ_5r5AhUridgFHQ88Dr0QMygBegUIARDcAQ..i&docid=i7NKaSsoI8LIMM&w=2000&h=1333&q=galaxy&ved=2ahUKEwjFsMnQ_5r5AhUridgFHQ88Dr0QMygBegUIARDcAQ);
+    
+
+   
+
+}
+p{
+    font-size: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+.content{
+    max-width: 500px;
+    align-items: center;
+    
+
+}
+.mySlides{
+    width: 100%;
+    
+}
